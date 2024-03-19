@@ -12,9 +12,11 @@ Maintenant que tout est installé. Essayez de lancer votre code pour la premièr
 go run ./src
 ```
 Pour l'instant, il ne se passe rien.  
-Votre but est ici est de `print` le numéro du dernier `block` miné de la chaine.
+  
+__Votre but est ici est de `print` le numéro du dernier `block` miné de la chaine.__
+  
 > Essayez de comprendre, dans un premier temps, ce que fait le code que vous venez d'éxecuter. 😉
-
+  
 > La [documentation](https://pkg.go.dev/github.com/ethereum/go-ethereum/ethclient) d'un `client` en go-ethereum
 
 > [Print en Go](https://pkg.go.dev/fmt#example-Println) 
