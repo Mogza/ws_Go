@@ -4,8 +4,7 @@ Dans ce workshop, vous apprendrez comment interagir simplement avec la blockchai
 > ❗ Documentation [go-ethereum](https://goethereumbook.org)
 
 ## Partie 0 : Setup
-Installe Go en suivant la [documentation officielle](https://go.dev/doc/install)  
-Rejoins la [Github Classroom](https://classroom.github.com/a/0C5KsjlB) et suis les indications. Cela te dirigera vers un nouveau repo dans lequel tu vas travailler.  
+Installe Go en suivant la [documentation officielle](https://go.dev/doc/install)    
 
 ## Partie 1 : Récupérer des informations
 
