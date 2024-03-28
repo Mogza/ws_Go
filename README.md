@@ -9,7 +9,7 @@ Installe Go en suivant la [documentation officielle](https://go.dev/doc/install)
 ## Partie 1 : Récupérer des informations
 
 ### Etape 1 : Numéro d'un Block
-Maintenant que tout est installé. Essayez de lancer votre code pour la première fois :
+Maintenant que tout est installé. Essayez de lancer le code déjà présent dans votre repo pour la première fois :
 ```shell
 go run ./part1
 ```
