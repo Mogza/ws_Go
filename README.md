@@ -1,4 +1,4 @@
-# Workshop : Intéragir avec la blockchain en Go
+# Workshop : Interagir avec la blockchain en Go
 Dans ce workshop, vous apprendrez comment interagir simplement avec la blockchain en utilisant "Go Ethereum", l'implémentation officielle d'Ethereum en Go.
 > ▶️ Repo officiel [ici](https://github.com/ethereum/go-ethereum/)  
 > ❗ Documentation [go-ethereum](https://goethereumbook.org)
