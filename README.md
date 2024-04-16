@@ -1,3 +1,5 @@
+# Epitech workshop to show students how to interact with the Ethereum blockchain with Go language.
+
 # Workshop : Interagir avec la blockchain en Go
 Dans ce workshop, vous apprendrez comment interagir simplement avec la blockchain en utilisant "Go Ethereum", l'implémentation officielle d'Ethereum en Go.
 > ▶️ Repo officiel [ici](https://github.com/ethereum/go-ethereum/)  
